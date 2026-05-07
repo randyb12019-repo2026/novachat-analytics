@@ -1,0 +1,22 @@
+# Environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Database backup
+*.rar
